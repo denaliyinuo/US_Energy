@@ -1,0 +1,13 @@
+﻿category,electricity generation,residential,commercial,industrial,transportation,year
+solar,0.17,0.252,0,0,,2014
+nuclear,8.33,,,,,2014
+hydro,2.44,,,0.0257,,2014
+wind,1.73,,,,,2014
+geothermal,0.159,0.0197,0.0197,,,2014
+natural gas,8.37,5.2,3.55,9.46,,2014
+coal,16.4,,0.047,1.51,,2014
+biomass,0.507,0.58,0.119,2.3,1.27,2014
+petroleum,0.294,0.945,0.561,8.16,24.8,2014
+electicity generation,,4.79,4.63,3.26,0.0265,2014
+rejected energy,25.8,4.12,3.13,4.95,21.4,2014
+energy services,,7.66,5.81,19.8,5.68,2014

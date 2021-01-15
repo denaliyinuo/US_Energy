@@ -1,0 +1,13 @@
+﻿category,electricity generation,residential,commercial,industrial,transportation,year
+solar,0.0175,0.14,0,0,,2011
+nuclear,8.26,,,,,2011
+hydro,3.15,,,0.0179,,2011
+wind,1.17,,,,,2011
+geothermal,0.163,0.0396,0.0197,,,2011
+natural gas,7.74,4.83,3.23,8.32,,2011
+coal,18,,0.0512,1.61,,2011
+biomass,0.444,0.43,0.11,2.27,1.15,2011
+petroleum,0.288,1.14,0.683,8.06,25.1,2011
+electicity generation,,4.86,4.5,3.33,0.026,2011
+rejected energy,26.6,2.29,1.72,4.72,20.3,2011
+energy services,,9.15,6.87,18.9,6.76,2011

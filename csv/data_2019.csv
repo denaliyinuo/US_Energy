@@ -1,0 +1,13 @@
+﻿category,electricity generation,residential,commercial,industrial,transportation,year
+solar,0.48,0.19,0.08,0.02,,2019
+nuclear,8.42,,,,,2019
+hydro,2.75,,,0.01,,2019
+wind,2.35,,,,,2019
+geothermal,0.15,,0.02,,,2019
+natural gas,9.54,4.58,3.29,9.84,0.76,2019
+coal,12.7,,0.02,1.24,,2019
+biomass,0.52,0.33,0.16,2.48,1.43,2019
+petroleum,0.21,0.88,0.83,8.38,25.9,2019
+electicity generation,,4.7,4.6,3.23,0.03,2019
+rejected energy,24.7,3.75,3.15,12.9,22.2,2019
+energy services,,6.97,5.84,12.4,5.91,2019
